@@ -83,6 +83,6 @@ Dan's backbone is **APAG**. Use it as the spine; the section count is flexible.
 
 Validated essays in this style (use as north-star references for tone and pacing):
 
-- **AI 数据第一课** → "所有短期红利都是假的，AI 数据才是你最值得攒的真大牌" — cover NO.003; the canonical reference for the APAG shape and section pacing.
-- **AI 上手第一课** → "你缺的从来不是知识，是先动起来的勇气" — cover NO.004; tighter hook, shorter Advantage section, stronger action close.
-- **机会预判**（3 PDFs synthesized）→ "你不是没机会，只是在用胆量代替预判" — cover NO.005; first-person anecdotes filled from a personal experience doc; demonstrates how real experience makes the essay land harder.
+- **NO.003** → closer: "所有短期红利都是假的，AI 数据才是你最值得攒的真大牌" — canonical reference for APAG shape and section pacing.
+- **NO.004** → closer: "你缺的从来不是知识，是先动起来的勇气" — tighter hook, shorter Advantage section, stronger action close.
+- **NO.005** → closer: "你不是没机会，只是在用胆量代替预判" — synthesized from 3 PDFs; first-person anecdotes filled from a personal experience doc; demonstrates how real experience makes the essay land harder.

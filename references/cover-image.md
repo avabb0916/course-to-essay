@@ -91,15 +91,15 @@ These are real covers produced and approved by the user, listed as a reference
 for consistent series style. Increment `--issue` for each new essay.
 
 ```bash
-# NO.003 — AI 数据
+# NO.003
 --line1 "AI 时代，最该攒的" --line2 "#{不是}工具，是@{数据}" --issue "NO. 003"
 --desc1 "关于记录、复盘与 AI 教练的" --desc2 "一篇公开思考与产品共创邀请"
 
-# NO.004 — AI 上手
+# NO.004
 --line1 "你缺的从来不是知识" --line2 "是先动起来的@{勇气}" --issue "NO. 004"
 --desc1 "关于 AI 学习、启动成本与" --desc2 "不设限的勇气的一篇公开思考"
 
-# NO.005 — 机会预判
+# NO.005
 --line1 "你不是没机会" --line2 "只是在用胆量代替@{预判}" --issue "NO. 005"
 --desc1 "关于创业决策、机会识别与" --desc2 "先胜而后求战的一篇公开思考"
 ```

@@ -26,15 +26,6 @@ deck.
    anecdotes, identity-obscured (company names, people, numbers all blurred).
 6. **(Optional) generates a 5:2 cover image** in a dark editorial style.
 
-## Validated on
-
-This skill has been tested and iterated on real course PDFs:
-
-- **AI 数据第一课** (60p image-based PDF) → essay + cover NO.003
-- **AI 上手第一课** (49p image-based PDF) → essay + cover NO.004
-- **机会预判** (3 PDFs combined, 114p total) → essay with real personal
-  experience filled in + cover NO.005
-
 ## Install (Claude Code)
 
 Clone this repo *as the skill folder itself* — do not nest it one level deeper.
