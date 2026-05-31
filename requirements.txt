@@ -1,0 +1,5 @@
+# Dependencies for course-to-essay scripts.
+# Only needed if you use the optional cover-image generator (scripts/make_cover.py).
+# The PDF reading, extraction, essay writing, and punctuation fixer need no extra packages.
+pillow>=10.0.0
+numpy>=1.24.0
