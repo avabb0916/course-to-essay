@@ -81,5 +81,8 @@ Dan's backbone is **APAG**. Use it as the spine; the section count is flexible.
 > **Gamify (G):** "Here's how to start." The course's action steps as a do-able
 > sequence + a challenge → one memorable closing line.
 
-The validated essay (AI 数据 / "所有短期红利都是假的") follows exactly this
-shape — use it as the north star for tone and pacing.
+Validated essays in this style (use as north-star references for tone and pacing):
+
+- **AI 数据第一课** → "所有短期红利都是假的，AI 数据才是你最值得攒的真大牌" — cover NO.003; the canonical reference for the APAG shape and section pacing.
+- **AI 上手第一课** → "你缺的从来不是知识，是先动起来的勇气" — cover NO.004; tighter hook, shorter Advantage section, stronger action close.
+- **机会预判**（3 PDFs synthesized）→ "你不是没机会，只是在用胆量代替预判" — cover NO.005; first-person anecdotes filled from a personal experience doc; demonstrates how real experience makes the essay land harder.

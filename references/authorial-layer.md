@@ -88,6 +88,43 @@ This is the clearest evidence you metabolized the idea instead of moving it.
   real project") or replace with the user's own via a placeholder, rather than
   reproducing the course's specific roster.
 
+## Using a personal experience document
+
+When the user provides a resume, career timeline, or biographical text, the
+authorial layer gets a concrete upgrade: placeholders become real anecdotes.
+This is the single highest-impact thing you can do to make the essay feel
+genuinely personal. The workflow:
+
+1. **At Phase 2.5 (before writing):** scan the document and note which life
+   episodes match each placeholder theme. You don't need to match precisely
+   yet — just flag "the story about X would work in the section on Y." This
+   lets you write the surrounding prose with the real anecdote's shape in mind,
+   so it fits rather than being pasted in afterward.
+
+2. **At Phase 3.5 (after writing):** fill each `【可替换…】` slot with the
+   matched episode. Choose episodes that have a **clear decision moment** and a
+   **visible consequence** — these make the strongest stories.
+
+3. **Identity obscuring (mandatory):**
+   - Company names → "某 SaaS 公司" / "一家行业头部公司" (never the real name)
+   - Named colleagues / clients → "一位前辈" / "当时的合伙人"
+   - Specific numbers (salary, revenue) → vague ranges or omit
+   - Dates → "几年前" / omit entirely
+   - The rule: a reader who doesn't know the author cannot identify the
+     specific organization or people involved.
+
+4. **Keep the emotional truth.** The feelings, the decision stakes, the lesson
+   learned — these are what make an anecdote real. Strip identity, keep heart.
+
+5. After filling, confirm to the user which episode you used and what you
+   obscured, so they can verify before publishing.
+
+**Never** pull details from the experience document unprompted. It is private
+input — only draw from it for explicit placeholder filling or when the user
+says "充实真实经历".
+
+---
+
 ## The derivative check (run before delivering)
 
 Skim the draft next to your course notes. For each paragraph ask: *could the

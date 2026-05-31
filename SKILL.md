@@ -151,6 +151,10 @@ few scratch notes answering:
    verifiable-sounding fact. Tell the user about these at the end so they fill
    them with real experience. NEVER fabricate specific checkable facts (fake
    company names, stats, events) and present them as the author's own.
+   **If the user has already provided a personal experience document,** scan it
+   now and note which episode best fits each placeholder theme — write the
+   surrounding prose with that episode's shape in mind so Phase 3.5 filling
+   feels integrated rather than pasted-in.
 4. **What can I add that the course didn't?** A connection to another domain, a
    counter-example, a sharper metaphor, a "here's the part nobody mentions."
    This is the clearest proof you metabolized the idea rather than moved it.
