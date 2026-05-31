@@ -30,8 +30,8 @@ deck.
 
 This skill has been tested and iterated on real course PDFs:
 
-- **AI 数据第一课** (一堂直播, 60p image-based PDF) → essay + cover NO.003
-- **AI 上手第一课** (一堂直播, 49p image-based PDF) → essay + cover NO.004
+- **AI 数据第一课** (60p image-based PDF) → essay + cover NO.003
+- **AI 上手第一课** (49p image-based PDF) → essay + cover NO.004
 - **机会预判** (3 PDFs combined, 114p total) → essay with real personal
   experience filled in + cover NO.005
 
